@@ -1,0 +1,6 @@
+{
+    "require": {
+        "razorpay/razorpay": "2.*",
+        "rmccue/requests": "^2.0.12"
+    }
+}
